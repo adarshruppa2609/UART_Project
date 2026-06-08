@@ -43,9 +43,7 @@ UART communication consists of:
 |--------|------------|
 | uart_tx.v | UART Transmitter |
 | uart_rx.v | UART Receiver |
-| fifo.v | FIFO Buffer |
-| baud_gen.v | Baud Rate Generator |
-| UART_FIFO.v | Top Module |
+| uart_top.v | Top Module |
 | uart_tb.v | Testbench |
 | uart_tb.vcd | Simulation Waveform |
 
