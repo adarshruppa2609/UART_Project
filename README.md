@@ -1,4 +1,4 @@
-# UART FIFO Design using Verilog HDL
+# UART Transmitter and Receiver Design using Verilog HDL
 
 ## Overview
 
