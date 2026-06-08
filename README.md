@@ -121,5 +121,3 @@ Interested in:
 - VLSI
 - FPGA Development
 - Verification Engineering
-
----
