@@ -78,7 +78,7 @@ All transmitted data was received correctly, confirming successful UART communic
 ## Tools Used
 
 - Verilog HDL
-- Icarus Verilog
+- Xilinx Vivado
 - GTKWave
 - GitHub
 
