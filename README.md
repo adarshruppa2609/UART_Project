@@ -122,10 +122,4 @@ Interested in:
 - FPGA Development
 - Verification Engineering
 
-GitHub: https://github.com/YOUR_USERNAME
-
 ---
-
-## License
-
-This project is available for educational and learning purposes.
